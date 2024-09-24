@@ -1,0 +1,151 @@
+Phrase	SoundsLike	IPA	DisplayAs
+esss-Three		ɛ s θ ɹ i	s3
+Ee-c-Two		i s i t u	eC2
+y-a-m-l		j æ m ə l	yaml
+uat		j u ɛ ɪ t i	uat
+git		g ɪ t	git
+emacs		ɪ m æ k s	emacs
+Dev-Ops	dev-ops		DevOps
+Ess-Three-Bucket	ess-three-buh-kit		S3 Bucket
+See-Eye-See-Dee	see-eye-see-dee		CI/CD
+Ay-Double-You-Ess-Lambda	ay-double-you-ess-lamb-duh		AWS Lambda
+Kube-ernetes	kube-or-net-ees		Kubernetes
+Ee-See-Two	ee-see-too		EC2
+Ay-Pee-Eye	ay-pee-eye		API
+Docker	docker		Docker
+Jen-kins	jen-kins		Jenkins
+You-Boon-Too	u-boon-too		Ubuntu
+Py-thon	py-thon		Python
+An-sible	an-sible		Ansible
+Terra-form	terra-form		Terraform
+Why-Ay-Em-El	yam-ul		YAML
+bash	bash		bash
+Git-Repository	git-repo-si-tory		Git Repository
+Ayche-Tee-Tee-Pee	aych-tee-tee-pee		HTTP
+Ess-Ess-Aych	ess-ess-aych		SSH
+See-El-Eye	see-ell-eye		CLI
+My-Ess-Cue-El	my-ess-cue-ell		MySQL
+Doom-Emacs	doom-em-acks		Doom Emacs
+Emacs	em-acks		Emacs
+A.W.S.	ay-double-you-ess		AWS
+Vim	vim		Vim
+Config	con-fig		config
+E.C.S.	ee-cee-ess		ECS
+Git	git		Git
+Commit	co-mit		commit
+G.I.T.			Git
+G.I.T.	jee-aye-tee		Git
+Git-Commit	git-co-mit		Git Commit
+Git-Push	git-poosh		Git Push
+Git-Pull	git-pool		Git Pull
+Git-Clone	git-clone		Git Clone
+Git-Branch	git-branch		Git Branch
+Git-Checkout	git-check-out		Git Checkout
+Git-Merge	git-merge		Git Merge
+A.W.S.-Lambda	ay-double-you-ess-lamb-duh		AWS Lambda
+A.W.S.-R.D.S.	ay-double-you-ess-are-dee-ess		AWS RDS
+A.W.S.-ElastiCache	ay-double-you-ess-elas-tee-cash		AWS ElastiCache
+A.W.S.-S.Q.S.	ay-double-you-ess-es-cue-ess		AWS SQS
+A.W.S.-CloudWatch	ay-double-you-ess-cloud-watch		AWS CloudWatch
+A.W.S.-Kinesis	ay-double-you-ess-kih-nees-is		AWS Kinesis
+A.W.S.-CloudFormation	ay-double-you-ess-cloud-for-may-shun		AWS CloudFormation
+A.L.B.	ay-ell-bee		ALB
+target-group	tar-get-group		target group
+hashicorp	hashy-corp		hashicorp
+A.R.N.	ay-arr-en		ARN
+cluster	clus-ter		cluster
+read-only	reed-oh-lee		read-only
+E.C.S.-service	ee-cee-ess-ser-vice		ECS service
+thirty-second	thir-tee-sek-und		30-second
+v.p.c.	vee-pee-cee		VPC
+I.D.-s	eye-dee-s		ID's
+colon	koh-lon		:
+add	ad		add
+rule	rool		rule
+my-main	my-mayn		my main
+looks	luks		looks
+comma	kom-uh		,
+add-it	ad-it		add it
+create-a	kree-ate-uh		create a
+I.A.M.	eye-ay-emm		"IAM"
+S.S.M.	ess-ess-emm		"SSM"
+U.A.T.	you-ay-tea		"UAT"
+I.R.	eye-arr		"IR"
+SSO	ess-ess-oh		SSO
+OAUTH	oh-auth		OAuth
+SAML	sam-ul		SAML
+DEV	dev		Dev
+PROD	prod		Prod
+SOX	socks		SOX
+VPN	vee-pee-en		VPN
+init	in-it		init
+I	eye		I
+config	con-fig		config
+grafana	grah-fah-nuh		Grafana
+sysops	sis-ops		SysOps
+regex	reg-ex		regex
+zshrc	zee-shell-arr-see		.zshrc
+zsh	zee-shell		zsh
+A.I.	ay-eye		AI
+bin	bin		bin
+regex	reg-ex		regex
+gitignore	git-ig-nor		.gitignore
+backticks	back-tiks		backticks
+READMEmd	read-me-dot-em-dee		README.md
+README	read-me		README
+github	git-hub		GitHub
+gitleaks	git-leaks		git-leaks
+git-secret	git-see-kret		git-secret
+AMI	ay-em-eye		AMI
+NAT	en-ay-tee		NAT
+cron	kron		cron
+crons	kronz		crons
+yaml	yam-ul		YAML
+url	yoo-arr-ell		URL
+UFW	you-ef-double-you		UFW
+SNS	ess-enn-ess		SNS
+are			"are"
+cloudformation	cloud-for-may-shun		CloudFormation
+Ess-Three	ess-three		S3
+SecOps	sek-ops		SecOps
+Yubikey	you-bee-key		Yubikey
+Yubikeys	you-bee-keys		Yubikeys
+sns	sms		SNS
+you-boon-too-alt	yoo-boon-tu		Ubuntu
+config-dot-el	kon-fig-dot-el		config.el
+init-dot-el	in-it-dot-el		init.el
+packages-dot-el	pak-ij-es-dot-el		packages.el
+dot			.
+period			.
+dash			-
+exclamation			"!"
+at			"@"
+hash			"#"
+dollar			"$"
+percent			"%"
+caret			"^"
+ampersand			"&"
+asterisk			"*"
+open-parenthesis			"("
+close-parenthesis			"))"
+equal			"="
+semicolon			";"
+colon			":"
+double-quote			"”"
+single-quote			"’"
+backslash			\\
+slash			/
+space			" "
+anki	an-kee		Anki
+anki-cards	an-kee-kards		Anki cards
+S.Q.S.	ess-cue-ess		SQS
+S.S.O.	ess-ess-oh		SSO
+K.M.S.	kay-em-ess		KMS
+M.F.A.	em-eff-ay		MFA
+fargate	far-gate		Fargate
+nginx	en-jin-ex		Nginx
+org			ORG
+serverless
+sls
+Docker
+Docker File

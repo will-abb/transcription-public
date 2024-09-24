@@ -1,0 +1,4 @@
+amazon-transcribe==0.6.2
+numpy==1.25.2
+pynput==1.7.6
+sounddevice==0.4.6
